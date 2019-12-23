@@ -1,0 +1,49 @@
+# Menu
+menu:
+  Home: /
+  Archives: /archives
+  Gallery: /gallery
+  About: /about
+rss: /atom.xml
+
+
+# Miscellaneous
+favicon: /logo.ico
+#brand: /images/hexo.svg
+brand: /logo.ico
+
+# Ocean Video
+# Because I put videos in multiple formats on the same path, I just labeled the path here.
+ocean:
+  overlay: true
+  path: /images/ocean/
+#  brand: /images/hexo-inverted.svg
+  brand: /logo.ico
+
+# Content
+excerpt_link: Read More...
+share_text: Share
+search_text: Search
+nav_text:
+  page_prev: Prev page
+  page_next: Next page
+  post_prev: Newer posts
+  post_next: Olde posts
+
+# Tags
+show_count: false
+
+# Toc
+toc: true
+
+# fancybox
+fancybox: true
+
+# Gitalk
+gitalk:
+  enable: false # true
+  clientID: # GitHub Application Client ID
+  clientSecret: # Client Secret
+  repo: # Repository name
+  owner: # GitHub ID
+  admin: # GitHub ID
