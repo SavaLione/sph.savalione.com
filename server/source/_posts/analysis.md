@@ -3,9 +3,9 @@ title: Анализ конкурентов
 date: 2019-11-02 17:40:53
 updated: 2019-12-03 21:49:00
 categories:
-  - Анализ
+  - Analysis
 tags:
-  - Сравнение конкурентов
+  - Competitor comparison
 ---
 # Анализ конкурентов
 

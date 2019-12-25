@@ -1,7 +1,9 @@
 ---
 title: Gallery
 albums: [
-        ["img_url","img_caption"],
-        ["img_url","img_caption"]
+        ["/images/logo.png","logo"],
+        ["/images/SavaLione.png","SavaLione"],
+        ["/images/analysis/positioning-map.png","positioning-map"],
+        ["/images/logo-last.png","logo-last"]
         ]
 ---

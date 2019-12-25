@@ -2,10 +2,10 @@
 title: Анализ и оценка рынка
 date: 2019-11-07 06:12:54
 categories:
-  - Анализ
+  - Analysis
 tags:
-  - Сравнение конкурентов
-  - Рынок
+  - Competitor comparison
+  - Market
 ---
 # Анализ и оценка рынка
 
